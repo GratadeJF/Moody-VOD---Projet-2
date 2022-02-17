@@ -4,14 +4,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description : 
 
-Création d'un site de VOD triant les films et les séries avec le genre selon le mood/humeur de la personne.
-Les informations des films/séries sont récupérés via l'API [TMDB](https://www.themoviedb.org/?language=fr).
+Création d'un site de VOD triant les films et les séries selon le mood/l'humeur de la personne.
+Les informations des films/séries sont récupérées via l'API [TMDB](https://www.themoviedb.org/?language=fr).
 
-Un catalogue est constitué une fois l'humeur choisie regroupant l'intégralité des films/séries et une sections FILM permet de filtrer uniquement les Films et de même pour les séries.
+Un catalogue est constitué une fois l'humeur choisi regroupant l'intégralité des films/séries et une section 'Films' permet de filtrer uniquement les films et de même pour les séries.
 
-L'humeur peut-être changer à tout moment grâce au sélectionneur en haut à droite de l'écran afin d'avoir un nouveau catalogue.
+L'humeur peut-être changé à tout moment grâce au sélecteur en haut à droite de l'écran afin d'avoir un nouveau catalogue.
 
-Si l'utilisateur souhaite se divertir durant une petite entracte une section MINI JEUX est mise à disposition avec un Quizz de 10 questions selon l'humeur choisit qui se basera également sur le genre de films/séries.
+Si l'utilisateur souhaite se divertir durant un petit entracte, une section MINI JEUX est mise à disposition avec un Quizz de 10 questions selon l'humeur choisi qui se basera également sur le genre de films/séries.
 
 
 ![4a4bfbc8190201444eff6bf0e400a89b](https://user-images.githubusercontent.com/89353029/153375351-fde56e4b-3e9a-4fa7-b2b1-1a94b0a1fdbb.png)
